@@ -1,0 +1,6 @@
+name: MAPS
+version: ${project.version}
+main: ml.noxxious.maps.Maps
+authors: [Noxxious, SemiClickbait, ItzEmerald]
+description: Mineshaft abuse Prevention System
+website: noxxious.ml
